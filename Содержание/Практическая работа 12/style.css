@@ -1,0 +1,36 @@
+h1{
+    font-family: Sans-serif;
+    text-align:center;
+    color: rgb(185, 185, 199);
+    border: dotted;
+    border-color: rgb(18, 21, 21);
+    padding: 50px;
+    margin: 30px;
+}
+h2{
+    font-family:Tahoma;
+    color:rgb(83, 42, 27);
+    font-size: 15pt;
+    line-height:20pt;
+    text-indent:20pt;
+    border: double;
+    border-color: rgb(197, 197, 212) rgb(156, 220, 156);
+    border-width:5px;
+    padding: 20px;
+    margin: 25px;
+    background-color:rgb(232, 227, 218);
+}
+h3{
+    font-family:Tahoma;
+    color: rgb(157, 21, 89);
+    font-size: 15pt;
+    line-height:20pt;
+    text-indent:20pt;
+    text-align:justify;
+    border: ridge;
+    border-color: rgb(188, 18, 18);
+    border-width:25px;
+    padding: 20px;
+    margin: 25px;
+background-image: url(https://i.pinimg.com/originals/0a/4d/cb/0a4dcb92fa2d3c601b58d72720d6bec4.jpg);
+}

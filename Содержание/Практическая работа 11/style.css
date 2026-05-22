@@ -1,0 +1,25 @@
+h1{
+    font-size: 30pt; 
+    line-height : 20pt ;
+    text-align:center;
+    color: rgb(246, 243, 243); 
+    background-image: url(https://puzzleit.ru/files/puzzles/158/157583/_original.jpg);
+    background-attachment: fixed;
+    background-repeat: repeat-x repeat-y;
+    font-family: "Century Gothic";
+}
+p{
+    font-family: "Century Gothic";
+    font-size: 20pt; 
+    line-height : 20pt ;
+    text-align:justify;
+    text-indent: 15pt;
+}
+.fon{
+    background-color: rgb(241, 241, 232);
+}
+body{
+    background-image: url(https://gspics.org/images/2022/08/25/063yfL.jpg);
+    background-attachment: fixed;
+    background-repeat: repeat;
+}
